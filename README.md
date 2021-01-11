@@ -1,6 +1,6 @@
 ## Plotly-Challenge
 
-**This assignment builds an interactive dashboard to explore the Belly Button Biodiversity dataset using JavaScript libraries (Plotly and D3) and HTML. Within the dataset is a catalogs of microbes that colonize the human navel/belly button. This assignment is then deployed to GitHub for accessibility.**
+**This assignment builds an interactive dashboard to explore the Belly Button Biodiversity dataset using JavaScript libraries (Plotly and D3) and HTML. Within the dataset is a catalog of microbes that colonize the human navel/belly button. This assignment is then deployed to GitHub for accessibility.**
 
 * Script includes
     * Read Json files using D3 library 
